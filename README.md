@@ -1,4 +1,5 @@
 Dota2 [![Build Status](https://travis-ci.org/paralin/Dota2.png)](https://travis-ci.org/paralin/Dota2)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fparalin%2FDota2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fparalin%2FDota2?ref=badge_shield)
 ---
 
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
@@ -44,7 +45,9 @@ You can register callbacks like any other Steam network functionality from Steam
 
 SteamKit2 and Dota2 (this package) are released under the [LGPL-2.1 license](http://www.tldrlegal.com/license/gnu-lesser-general-public-license-v2.1-%28lgpl-2.1%29).
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fparalin%2FDota2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fparalin%2FDota2?ref=badge_large)
+
 ## Contact
 
 IRC: [irc.gamesurge.net / #opensteamworks](irc://irc.gamesurge.net/opensteamworks)
-
